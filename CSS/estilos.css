@@ -1,0 +1,20 @@
+p{
+	color:#f00;
+}
+
+#html{
+	color:red;
+}
+.miclase{
+	color:violet;
+}
+a:link{
+	color:violet;
+}
+a:visited{
+	color:red;
+}
+
+ul > li{
+	margin-left: 80px;
+}
